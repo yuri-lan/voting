@@ -1,0 +1,10 @@
+# Ignore folder uploads (kecuali file .gitkeep)
+uploads/*
+!uploads/.gitkeep
+
+# Ignore file konfigurasi lokal (opsional, kalau mau password DB aman)
+# config/koneksi.php
+
+# Ignore file sistem Mac/Windows
+.DS_Store
+Thumbs.db
