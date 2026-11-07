@@ -1,4 +1,4 @@
-# 🗳️ Aplikasi Voting Pemilihan Kakang Senduk Ponorogo
+# Aplikasi Voting Pemilihan Kakang Senduk Ponorogo
 
 Sistem Informasi Pemilihan Duta Wisata Daerah Berbasis Web. Aplikasi ini dibuat untuk memfasilitasi proses pemilihan Kakang dan Senduk Ponorogo secara digital, transparan, dan *real-time*.
 
@@ -6,9 +6,9 @@ Proyek ini dibangun dengan **UI/UX Modern (Dark Space & Glassmorphism Theme)** u
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-### 🧑‍🤝‍🧑 Halaman Pemilih (User)
+### Halaman Pemilih (User)
 - **Desain Futuristik**: Tema luar angkasa (Dark Mode) dengan animasi bintang yang bergerak dan efek kaca reflektif (Glassmorphism).
 - **Katalog Kontestan**: Lihat daftar kontestan Kakang & Senduk beserta profil lengkap (Visi, Misi, Prestasi).
 - **Sistem Voting Aman**: 
@@ -18,7 +18,7 @@ Proyek ini dibangun dengan **UI/UX Modern (Dark Space & Glassmorphism Theme)** u
 - **Klasemen Live (Real-time)**: Halaman peringkat otomatis yang ter-*update* setiap 15 detik tanpa perlu *refresh*.
 - **Podium Juara**: Tampilan khusus untuk Juara 1, 2, dan 3.
 
-### 👨‍💻 Halaman Administrator (Admin)
+### Halaman Administrator (Admin)
 - **Dashboard Statistik**: Total pemilih, total suara, dan **Grafik Batang (Chart.js)** interaktif untuk memantau perolehan suara.
 - **Manajemen Kontestan (CRUD)**: Tambah, Edit, dan Hapus data kontestan beserta foto.
 - **Manajemen Pemilih**: Pantau dan hapus akun pemilih.
@@ -28,7 +28,7 @@ Proyek ini dibangun dengan **UI/UX Modern (Dark Space & Glassmorphism Theme)** u
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Bahasa**: PHP Native, JavaScript, HTML, CSS
 - **Database**: MySQL (MariaDB)
 - **Framework UI**: Bootstrap 5
@@ -40,7 +40,7 @@ Proyek ini dibangun dengan **UI/UX Modern (Dark Space & Glassmorphism Theme)** u
 
 ---
 
-## 🚀 Cara Menjalankan Proyek (Instalasi Lokal)
+## Cara Menjalankan Proyek (Instalasi Lokal)
 
 ### Prasyarat
 - Sudah menginstall **XAMPP** (Apache & MySQL).
